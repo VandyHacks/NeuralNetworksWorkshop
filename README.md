@@ -6,6 +6,10 @@ An introduction to the practical aspects and light theory behind Neural Networks
 ## What is a Neural Network?
 A neural network is a multi-layer, artificially modeled network of neurons/nodes.
 
+<p align="center">
+	<img src = "res/img.png"/>
+</p>
+
 Useful for:
 -   recognizing patterns in provided data sets
 -   modeling non-linear and complex relationships
